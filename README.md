@@ -1,6 +1,6 @@
 # DESIGN HOTELS SOUTH TYROL
 
-# Hotel-Buchungs Webseite mit React
+Hotel-Buchungs Webseite mit React
 
 JavaScript · HTML · CSS/SASS · React · Node.js · Material-UI · Firebase
 
